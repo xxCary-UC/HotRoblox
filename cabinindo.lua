@@ -1,6 +1,6 @@
 
 -- adonis bypass, credit: pixeluted
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Pixeluted/adoniscries/refs/heads/main/Source.lua"))()
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/Pixeluted/adoniscries/refs/heads/main/Source.lua"))()
 
 
         -- silahkan deobfuscate untuk di steal or improving anti cheat for developer
